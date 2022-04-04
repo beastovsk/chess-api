@@ -1,0 +1,19 @@
+{
+  "name": "chapter-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --build",
+    "watch": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tslint": "^6.1.3"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.23"
+  }
+}
